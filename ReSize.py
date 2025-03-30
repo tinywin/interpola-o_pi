@@ -1,7 +1,4 @@
-# Aluna: Laura Barbosa Henrique
-# Matrícula: 2022216981
 # Código 1 - interpolação
-# Data: 28/03/2025
 # Universidade Federal do Tocantins
 # Disciplina: Processamento de Imagens
 # Descrição: Código para interpolação de imagens usando vizinho mais próximo e bilinear
